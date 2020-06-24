@@ -21,6 +21,10 @@ Mo100.0nubb_rhc_lambda_0_2 : Neutrinoless double beta decay of Mo-100, 0nubb(rhc
 Mo100.2nubb : Two neutrino double beta decay of Mo-100, 2nubb : DBD/Mo100 : 
 Mo100.0nubbM1 : Neutrinoless double beta decay of Mo-100, 0nubbM1 : DBD/Mo100 : 
 Mo100.0nubbM2 : Neutrinoless double beta decay of Mo-100, 0nubbM2 : DBD/Mo100 : 
+Mo100.2nubb_gA_G0 : Two neutrino double beta decay of Mo-100, 2nubb using gA process G0 : DBD/Mo100 :
+Mo100.2nubb_gA_G2 : Two neutrino double beta decay of Mo-100, 2nubb using gA process G2 : DBD/Mo100 : 
+Mo100.2nubb_gA_G22 : Two neutrino double beta decay of Mo-100, 2nubb using gA process G22 : DBD/Mo100 : 
+Mo100.2nubb_gA_G4 : Two neutrino double beta decay of Mo-100, 2nubb using gA process G4 : DBD/Mo100 : 
 Nd150.0nubb : Neutrinoless double beta decay of Nd-150, 0nubb(mn) : DBD/Nd150 : 
 Nd150.0nubb_rhc_lambda_0 : Neutrinoless double beta decay of Nd-150, 0nubb(rhc-lambda) 0+ -> 0+ {2n} : DBD/Nd150 : 
 Nd150.0nubb_rhc_lambda_0_2 : Neutrinoless double beta decay of Nd-150, 0nubb(rhc-lambda) 0+ -> 0+, 2+ {N*} : DBD/Nd150 : 
@@ -28,6 +32,14 @@ Nd150.2nubb : Two neutrino double beta decay of Nd-150, 2nubb : DBD/Nd150 :
 Nd150.2nubb_2.2MeV : Two neutrino double beta decay of Nd-150, 2nubb (E > 2.2 MeV): DBD/Nd150 : 
 Nd150.0nubbM1 : Neutrinoless double beta decay of Nd-150, 0nubbM1 : DBD/Nd150 : 
 Nd150.0nubbM2 : Neutrinoless double beta decay of Nd-150, 0nubbM2 : DBD/Nd150 : 
+Nd150.2nubb_gA_G0 : Two neutrino double beta decay of Nd-150, 2nubb using gA process G0 : DBD/Nd150 :
+Nd150.2nubb_gA_G2 : Two neutrino double beta decay of Nd-150, 2nubb using gA process G2 : DBD/Nd150 : 
+Nd150.2nubb_gA_G22 : Two neutrino double beta decay of Nd-150, 2nubb using gA process G22 : DBD/Nd150 : 
+Nd150.2nubb_gA_G4 : Two neutrino double beta decay of Nd-150, 2nubb using gA process G4 : DBD/Nd150 :
+Cd116.2nubb_gA_G0 : Two neutrino double beta decay of Cd-116, 2nubb using gA process G0 : DBD/Cd116 :
+Cd116.2nubb_gA_G2 : Two neutrino double beta decay of Cd-116, 2nubb using gA process G2 : DBD/Cd116 : 
+Cd116.2nubb_gA_G22 : Two neutrino double beta decay of Cd-116, 2nubb using gA process G22 : DBD/Cd116 : 
+Cd116.2nubb_gA_G4 : Two neutrino double beta decay of Cd-116, 2nubb using gA process G4 : DBD/Cd116 : 
 Ac228 : Ac-228 decay : Background : 
 Th234 : Th-234 decay : Background : 
 Tl207 : Tl-207 decay : Background : 
